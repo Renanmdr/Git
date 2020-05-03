@@ -1,1 +1,2 @@
 status
+entendendo o Head
