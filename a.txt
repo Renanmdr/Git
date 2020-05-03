@@ -1,3 +1,7 @@
 status
 entendendo o Head
+<<<<<<< HEAD
 essa linha foi modificada no ramo master
+=======
+esta linha foi modificada no ramo teste
+>>>>>>> teste
