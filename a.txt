@@ -1,2 +1,3 @@
 status
 entendendo o Head
+essa linha foi modificada no ramo master
